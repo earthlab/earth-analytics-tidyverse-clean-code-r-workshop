@@ -1,6 +1,8 @@
-# Earth Analytics Workshop Materials - Learn to Use Tidyverse and Clean Code to Work With Data in R
+[![DOI](https://zenodo.org/badge/186890373.svg)](https://zenodo.org/badge/latestdoi/186890373)
 
-This workshop on Learn to Use Tidyverse and Clean Code to Work With Data in R is taught by instructors in <a href="https://www.colorado.edu/earthlab/" target="_blank"> Earth Lab at CU Boulder</a>. 
+# Earth Analytics Workshop Materials - Learn to Use tidyverse and Clean Code to Work With Data in R
+
+This workshop on Learn to Use tidyverse and Clean Code to Work With Data in R is taught by instructors in <a href="https://www.colorado.edu/earthlab/" target="_blank"> Earth Lab at CU Boulder</a>. 
 
 This workshop provides lessons on using tidyverse in R to write more efficient code for cleaning and processing data. 
 
